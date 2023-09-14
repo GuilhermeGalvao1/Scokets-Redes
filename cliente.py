@@ -1,6 +1,6 @@
 import socket
 
-IP_SERVIDOR = '192.168.0.126'
+IP_SERVIDOR = input("Digite o IP do servidor")
 
 PORTA = 8000
 
